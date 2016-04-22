@@ -1,5 +1,7 @@
 body {
-	background-color: #dfdfdf
+	color: blue;
+	background-color: #dfdfdf;
+	font-family: Verdana
 }
 
  /* class selector */
